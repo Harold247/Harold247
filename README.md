@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harold Whitehead! <br/><a href="https://github.com/Harold247">Programmer</a>, <a href="https://www.linkedin.com/in/harold-whitehead-jr-b1198271//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Harold Whitehead! <br/><a href="https://github.com/Harold247"> <a href="https://www.linkedin.com/in/harold-whitehead-jr-b1198271//">Security Analysis</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Security Analysis Projects:</h2>
 
